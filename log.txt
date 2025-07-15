@@ -50,3 +50,4 @@ https://install.exams.schoolyear.app/schoolyear-exams-win-3.13.1.msi
 https://install.exams.schoolyear.app/schoolyear-exams-win-3.14.0.msi
 https://install.exams.schoolyear.app/schoolyear-exams-win-3.14.1.msi
 https://install.exams.schoolyear.app/schoolyear-exams-win-3.14.2.msi
+https://install.exams.schoolyear.app/schoolyear-exams-win-3.14.3.msi
